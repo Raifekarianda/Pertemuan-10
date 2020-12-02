@@ -7,7 +7,7 @@
 ## Latihan
 # Untuk latihan kali ini merubah dari fungsi ke lambda Ada 4 fungsi yang harus dirubah ke lambda
 Perhatikan Soal Berikut
-![Soal](gambar/gambar1.png)
+![Soal](gambar/gambar1.PNG)
 
 dan ini hasil dari source code diatas 
 ```python
@@ -59,7 +59,7 @@ Berikut outputnya
  ## Tugas Praktikum
  * Selain tugas latihan yang diberikan oleh dosen, saya juga diberi tugas praktikum oleh Dosen. Yaitu membuat progam sederhana menggunakan fungsi. Yang menampilkan Data Mahasiswa.  
 
- ![hasil](gambar/gambar3.png)
+ ![hasil](gambar/gambar3.PNG)
  
 * Seperti biasa, setelah saya membaca serta memahami materi yang berikan oleh dosen dan mencari referensi tambahan dari Internet, akhirnya saya bisa mengerjakan tugas pertemuan 10 (Tugas Praktikum).
 
